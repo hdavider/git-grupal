@@ -12,6 +12,9 @@ Ingredientes
 
 Utencilios
 
-- Rodillo
-- Papel de horno
-- Bol
+<ul>
+
+  <li>Rodillo</li>
+  <li>Papel de horno</li>
+  <li>Bol</li>
+</ul>
