@@ -1,3 +1,4 @@
+Darwin-Manzano
 Receta para hacer una pizza
 
 Ingredientes
@@ -18,3 +19,12 @@ Utencilios
   <li>Papel de horno</li>
   <li>Bol</li>
 </ul>
+
+<ol>
+  <li>Hacer la masa</li>
+  <li>Hacerla redonda</li>
+  <li>Añadir ingredientes</li>
+  <li>Cocinar</li>
+  <li>Comer</li>
+</ol>
+main
