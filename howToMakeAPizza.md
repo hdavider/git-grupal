@@ -1,4 +1,3 @@
-Darwin-Manzano
 Receta para hacer una pizza
 
 Ingredientes
@@ -27,4 +26,3 @@ Utencilios
   <li>Cocinar</li>
   <li>Comer</li>
 </ol>
-main
