@@ -13,8 +13,8 @@ Ingredientes
 Utencilios
 
 <ul>
-
   <li>Rodillo</li>
+  <li>Horno o un sarten</li>
   <li>Papel de horno</li>
   <li>Bol</li>
 </ul>
@@ -22,7 +22,9 @@ Utencilios
 <ol>
   <li>Hacer la masa</li>
   <li>Hacerla redonda</li>
+  <li>Pincha la masa con un tenedor para que no suba</li>
   <li>Añadir ingredientes</li>
+  <li>Agregar el aceite al sarten (si estas usando uno)</li>
   <li>Cocinar</li>
   <li>Comer</li>
 </ol>
